@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-07T10:06:07 IST" name="DefenseUnit" finished-at="2024-11-07T10:06:13 IST" duration-ms="5794">
+    <groups>
+    </groups>
+    <test started-at="2024-11-07T10:06:07 IST" name="Regiment" finished-at="2024-11-07T10:06:13 IST" duration-ms="5794">
+      <class name="FrameWorkTest.MavenTest.ReportTest">
+        <test-method is-config="true" signature="reportTesting()[pri:0, instance:FrameWorkTest.MavenTest.ReportTest@35ef1869]" started-at="2024-11-07T10:06:07 IST" name="reportTesting" finished-at="2024-11-07T10:06:07 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTesting -->
+        <test-method signature="sampleTest()[pri:0, instance:FrameWorkTest.MavenTest.ReportTest@35ef1869]" started-at="2024-11-07T10:06:07 IST" name="sampleTest" finished-at="2024-11-07T10:06:13 IST" duration-ms="5528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- FrameWorkTest.MavenTest.ReportTest -->
+    </test> <!-- Regiment -->
+  </suite> <!-- DefenseUnit -->
+</testng-results>
